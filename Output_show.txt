@@ -1,0 +1,38 @@
+[1m[36msend_command_test***************************************************************[0m
+[0m[1m[34m* R1 ** changed : False ********************************************************[0m
+[0m[1m[32mvvvv send_command_test ** changed : False vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv INFO[0m
+[0m[1m[32m---- send_command ** changed : False ------------------------------------------- INFO[0m
+[0mInterface                  IP-Address      OK? Method Status                Protocol
+Ethernet0/0                192.168.146.11  YES NVRAM  up                    up
+Ethernet0/1                unassigned      YES NVRAM  administratively down down
+Ethernet0/2                unassigned      YES NVRAM  administratively down down
+Ethernet0/3                unassigned      YES NVRAM  administratively down down[0m
+[0m[1m[32m^^^^ END send_command_test ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+[0m[1m[34m* R2 ** changed : False ********************************************************[0m
+[0m[1m[32mvvvv send_command_test ** changed : False vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv INFO[0m
+[0m[1m[32m---- send_command ** changed : False ------------------------------------------- INFO[0m
+[0mInterface                  IP-Address      OK? Method Status                Protocol
+Ethernet0/0                192.168.146.12  YES NVRAM  up                    up
+Ethernet0/1                unassigned      YES NVRAM  administratively down down
+Ethernet0/2                unassigned      YES NVRAM  administratively down down
+Ethernet0/3                unassigned      YES NVRAM  administratively down down[0m
+[0m[1m[32m^^^^ END send_command_test ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+[0m[1m[34m* R3 ** changed : False ********************************************************[0m
+[0m[1m[32mvvvv send_command_test ** changed : False vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv INFO[0m
+[0m[1m[32m---- send_command ** changed : False ------------------------------------------- INFO[0m
+[0mInterface                  IP-Address      OK? Method Status                Protocol
+Ethernet0/0                192.168.146.13  YES NVRAM  up                    up
+Ethernet0/1                unassigned      YES NVRAM  administratively down down
+Ethernet0/2                unassigned      YES NVRAM  administratively down down
+Ethernet0/3                unassigned      YES NVRAM  administratively down down[0m
+[0m[1m[32m^^^^ END send_command_test ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+[0m[1m[34m* R4 ** changed : False ********************************************************[0m
+[0m[1m[32mvvvv send_command_test ** changed : False vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv INFO[0m
+[0m[1m[32m---- send_command ** changed : False ------------------------------------------- INFO[0m
+[0mInterface                  IP-Address      OK? Method Status                Protocol
+Ethernet0/0                192.168.146.14  YES NVRAM  up                    up
+Ethernet0/1                unassigned      YES NVRAM  administratively down down
+Ethernet0/2                unassigned      YES NVRAM  administratively down down
+Ethernet0/3                unassigned      YES NVRAM  administratively down down[0m
+[0m[1m[32m^^^^ END send_command_test ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+[0m
